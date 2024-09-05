@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(15, 15, 15);
+}
+.tittle{
+    display: flexbox;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    padding: 1%;
+    max-width: 1000px;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.no, .yes{
+    margin-left: 39px;
+    display: inline-block;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    padding: 1%;
+    min-width: 200px;
+    min-height: 60px;
+    margin-top: 30px;
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 50px;
+}
+
